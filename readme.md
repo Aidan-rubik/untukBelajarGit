@@ -2,7 +2,7 @@
 
 # hai
 
-# command git:
+Command git:
 # git init
 # git commit
 # git config --global user.email "you@example.com"
