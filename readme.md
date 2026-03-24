@@ -29,7 +29,7 @@ git checkout 'nama'
 git merge master
 
 git remote add origin
- https://github.com/<namaGithub>/'namaDirektori'.git
+ https://github.com/'namaGithub'/'namaDirektori'.git
 
 git push -u origin master
 
